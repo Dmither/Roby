@@ -68,7 +68,7 @@
     position: absolute;
     bottom: 0;
     left: 50%;
-    transform:translate(-50%, 50%);
+    transform:translate(-55%, 50%);
   }
   .logo_scrolled{
     opacity: 0;
