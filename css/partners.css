@@ -1,0 +1,17 @@
+.partners {
+  padding: 120px 0;
+  background-color: #fff;
+  text-align: center;
+}
+.partners__title {
+  font-size: 22px;
+  line-height: 1.47;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.partners__title span{
+  font-size: 32px;
+  line-height: 1.2;
+}
+.partners__img{
+}
